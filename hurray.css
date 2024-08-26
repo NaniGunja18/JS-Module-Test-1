@@ -1,0 +1,50 @@
+.hidden {
+    display: none;
+}
+
+.finalbodypage {
+    display: none; 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 2rem;
+    z-index: 100; 
+}
+
+.finalstuff {
+    margin-bottom: 20px;
+}
+
+#Trophy {
+    width: 150px;
+    height: auto;
+}
+
+#aa1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+#aa2 {
+    font-size: 1.5rem;
+}
+
+#aa3 button {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#aa3 button:hover {
+    background-color: #45a049;
+}
